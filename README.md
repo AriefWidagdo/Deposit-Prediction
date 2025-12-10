@@ -84,7 +84,6 @@ Berdasarkan hasil analisis dan pemodelan pada data Bank Marketing Portugal:
 4.  **Rekomendasi:** Gunakan *threshold adjustment* (seperti Youden’s J Statistic: 0.52) untuk menyeimbangkan antara menangkap peluang deposito dan biaya operasional, sesuai dengan selera risiko bisnis saat ini.
 
 
-Link Resources
-Link Tableau
-Link Powerpoint
-Link App
+- [Link Presentasi (Canva)](https://www.canva.com/design/DAG6QoMcmy0/5GVfHejCRV-PT5aORdauQw/edit)
+- [Link Tableau](https://public.tableau.com/app/profile/sidiq.qq/viz/shared/6723P9P53)
+- [Link Streamlit](https://final-project-prediksi-deposit.streamlit.app/)
