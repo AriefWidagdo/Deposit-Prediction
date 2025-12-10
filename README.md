@@ -4,10 +4,12 @@ Ridwan As-Sidiq
 M Arief Widagdo
 
 🌐 Overview
+
 Portbank
 Portbank merupakan institusi perbankan yang melakukan kampanye pemasaran langsung (telemarketing) untuk menawarkan produk deposito berjangka kepada nasabah. Efektivitas kampanye sebelumnya belum optimal, di mana proses telemarketing memakan waktu dan sumber daya manusia yang signifikan, sementara targeting yang tidak tepat berpotensi menyebabkan hilangnya peluang pendapatan (*revenue lost*) dan biaya operasional yang sia-sia.
 Dengan tingkat konversi (deposit) yang hanya sekitar 11.3% dari total data, terjadi ketidakseimbangan kelas yang signifikan. Tantangan utamanya adalah bagaimana meningkatkan efisiensi kampanye dengan menargetkan nasabah yang memiliki probabilitas tinggi untuk berlangganan deposito, sehingga Portbank dapat menghemat biaya pemasaran dan memaksimalkan profit.
 Proyek ini bertujuan untuk menganalisis data historis pelanggan, mengidentifikasi faktor-faktor yang mempengaruhi keputusan nasabah, dan membangun model klasifikasi Machine Learning yang dapat memprediksi calon nasabah potensial secara akurat.
+
 
 🎯 Objective
 Menganalisis pola perilaku nasabah dan karakteristik demografis yang membedakan antara nasabah yang berpotensi membuka deposito dan yang tidak.
