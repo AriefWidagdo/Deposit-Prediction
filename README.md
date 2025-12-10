@@ -44,6 +44,8 @@ Durasi Panggilan: Fitur `duration` memiliki korelasi sangat tinggi dengan target
 19] euribor3m
 20] nr.employed
 21] y (Target: Deposit Subscription)
+```
+
 
 🧠 Model Candidate
 Beberapa algoritma klasifikasi telah diuji dengan berbagai teknik resampling (SMOTE, Random UnderSampling, Random OverSampling) untuk menangani imbalanced data:
