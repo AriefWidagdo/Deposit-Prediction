@@ -60,12 +60,6 @@ Model terbaik yang dipilih adalah **Logistic Regression** dengan teknik **Random
 
 **Best Parameters:** `C=10`, `penalty='l1'`, `solver='liblinear'`
 
-**Classification Report - Test Data**
-| Class | Precision | Recall | F1-Score | Support |
-|-------|-----------|--------|----------|---------|
-| 0 (No)| 0.95 | 0.81 | 0.88 | 7304 |
-| 1 (Yes)| 0.32 | 0.64 | 0.43 | 928 |
-
 **Performance Metrics**
 | Metric | Score (Test) |
 |--------|--------------|
