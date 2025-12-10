@@ -20,7 +20,9 @@ Frekuensi Kontak: Fitur `contact_count` (gabungan `campaign` dan `previous`) men
 Beban Finansial: Nasabah dengan beban pinjaman ganda (`loan_burden`: housing + personal loan) cenderung memiliki perilaku berbeda dalam mengambil deposito baru.
 Durasi Panggilan: Fitur `duration` memiliki korelasi sangat tinggi dengan target, namun dihapus dari pemodelan untuk mencegah *data leakage* karena durasi tidak diketahui sebelum panggilan dilakukan.
 
-Dataset
+### Dataset
+
+```text
 01] age
 02] job
 03] marital
